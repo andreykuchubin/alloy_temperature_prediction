@@ -34,4 +34,4 @@ MAE
 * добавить больше замеров параметров, т.к. это будет точнее, чем полученные расчетом признаки.
 
 ## Используемый стек
-Jupyter Notebook Python: pandas, numpy,psycopg2, matplotlib,seaborn, phik, sweetviz, torch, tensorflow, datetime, sklearn, catboost.
+Jupyter Notebook Python: pandas, numpy, psycopg2, matplotlib, seaborn, phik, sweetviz, torch, tensorflow, datetime, sklearn, catboost.
